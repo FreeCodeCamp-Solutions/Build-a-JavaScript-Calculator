@@ -43,7 +43,6 @@ EXAMPLE: 3 + 5 x 6 - 2 / 4 =
 Immediate Execution Logic: 11.5
 Formula/Expression Logic: 32.5
 You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
-
 Once you're done, submit the URL to your working project with all its tests passing.
 
-Solution Link
+Solution Link (Live Site):  https://freecodecamp-solutions.github.io/Build-a-JavaScript-Calculator/
